@@ -1,0 +1,21 @@
+{
+  "appPid": 2289,
+  "appVersion": "CL-221.5921.27",
+  "runtimeVersion": "11_0_15b2043.56",
+  "unattendedMode": true,
+  "idePath": "/home/u6281556/.cache/JetBrains/RemoteDev/dist/880329aca0c3c_CLion-2022.1.3",
+  "projects": [
+    {
+      "projectName": "u6281556",
+      "projectPath": "/home/u6281556",
+      "dateLastOpened": 1667042071413,
+      "joinLink": "tcp://127.0.0.1:5990#jt=33196bd0-127b-45d1-ab3b-c2f3ce901939&p=CL&fp=A6B4801FD239637D0A9B71E03F6F5052C1C503CEDDF2729BC7DCDFCCF009D770&cb=221.5921.27&jb=11_0_15b2043.56",
+      "httpLink": "https://code-with-me.jetbrains.com/remoteDev#idePath=%2Fhome%2Fu6281556%2F.cache%2FJetBrains%2FRemoteDev%2Fdist%2F880329aca0c3c_CLion-2022.1.3&projectPath=%2Fhome%2Fu6281556&host=syskill&port=22&user=u6281556&type=ssh&deploy=false",
+      "gatewayLink": "jetbrains-gateway://connect#idePath=%2Fhome%2Fu6281556%2F.cache%2FJetBrains%2FRemoteDev%2Fdist%2F880329aca0c3c_CLion-2022.1.3&projectPath=%2Fhome%2Fu6281556&host=syskill&port=22&user=u6281556&type=ssh&deploy=false",
+      "controllerConnected": false,
+      "secondsSinceLastControllerActivity": 2,
+      "backgroundTasksRunning": false,
+      "users": []
+    }
+  ]
+}

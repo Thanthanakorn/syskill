@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /lib64/ld-linux-x86-64.so.2 --library-path "/home/u6281556/.cache/JetBrains/RemoteDev/dist/880329aca0c3c_CLion-2022.1.3/plugins/remote-dev-server/selfcontained/lib" "/home/u6281556/.cache/JetBrains/RemoteDev-CL/_home_u6281556/pid.2155.temp.jbr/bin/jps.bin"  "$@"
