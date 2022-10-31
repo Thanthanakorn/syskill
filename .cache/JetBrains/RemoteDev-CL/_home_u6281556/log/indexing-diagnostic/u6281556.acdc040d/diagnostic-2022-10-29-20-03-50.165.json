@@ -1,0 +1,166 @@
+{
+  "appInfo" : {
+    "build" : "221.5921.27",
+    "buildDate" : "2022-06-21T21:03:23.902Z[UTC]",
+    "productCode" : "CL",
+    "generated" : "2022-10-29T13:03:50.165904Z",
+    "os" : "Linux 4.15.0-166-generic",
+    "runtime" : "JetBrains s.r.o. 11.0.15 11.0.15+10-b2043.56"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 6,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "u6281556",
+    "times" : {
+      "indexingReason" : "changes in: \"Module 'u6281556' (1.sh, 1.sh, CMakeLists.txt, CMakeLists.txt, assignment0.c, assignment0.c)\", \"Library Header Search Paths\"",
+      "scanningType" : "PARTIAL",
+      "totalUpdatingTime" : 79331263,
+      "indexingTime" : 873000,
+      "contentLoadingVisibleTime" : 71956,
+      "creatingIteratorsTime" : 4000,
+      "scanFilesTime" : 63178000,
+      "pushPropertiesTime" : 14000,
+      "indexExtensionsTime" : 0,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 136119,
+      "updatingStart" : "2022-10-29T13:03:50.086132Z",
+      "updatingEnd" : "2022-10-29T13:03:50.165466Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 2,
+      "numberOfScannedFiles" : 7280,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 1,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 1
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "ObjectiveC",
+      "partOfTotalProcessingTime" : {
+        "part" : 477494,
+        "total" : 477494
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 59648,
+        "total" : 59648
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 18,
+      "indexingSpeed" : {
+        "totalBytes" : 18,
+        "totalTime" : 477494
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'u6281556' (1.sh, 1.sh, CMakeLists.txt, CMakeLists.txt, assignment0.c, assignment0.c)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 18,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 477494,
+          "total" : 477494
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 69614,
+        "total" : 81838
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 18,
+      "indexingSpeed" : {
+        "totalBytes" : 18,
+        "totalTime" : 69614
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 12224,
+        "total" : 81838
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 18,
+      "indexingSpeed" : {
+        "totalBytes" : 18,
+        "totalTime" : 12224
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 0,
+        "total" : 81838
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 18,
+      "indexingSpeed" : {
+        "totalBytes" : 18,
+        "totalTime" : 0
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Library Header Search Paths",
+      "numberOfScannedFiles" : 7277,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 2847011,
+      "scanningTime" : 5474543,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Module 'u6281556' (1.sh, 1.sh, CMakeLists.txt, CMakeLists.txt, assignment0.c, assignment0.c)",
+      "numberOfScannedFiles" : 3,
+      "numberOfSkippedFiles" : 3,
+      "numberOfFilesForIndexing" : 1,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 99307,
+      "scanningTime" : 149438,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 3283,
+      "timeIndexingWithoutContent" : 610,
+      "roots" : [ ]
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'u6281556' (1.sh, 1.sh, CMakeLists.txt, CMakeLists.txt, assignment0.c, assignment0.c)",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 576023,
+      "contentLoadingVisibleTime" : 71956,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 136119
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 1.2063460483273087
+  }
+}

@@ -1,0 +1,8 @@
+result a0\n ==== Assignment0 outout ===== \n
+result a1\n ==== Assignment1 outout ===== \n
+result a2\n ==== Assignment2 outout ===== \n
+result a3\n ==== Assignment3 outout ===== \n
+result a4\n ==== Assignment4 outout ===== \n
+result a5\n ==== Assignment5 outout ===== \n
+result a6\n ==== Assignment6 outout ===== \n
+result a7\n ==== Assignment7 outout ===== \n
